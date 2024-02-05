@@ -28,7 +28,7 @@ echo "DISTRIB_SOURCECODE='official'" >>package/base-files/files/etc/openwrt_rele
  svn co https://github.com/kenzok8/small-package/tree/main/adguardhome package/adguardhome
  svn co https://github.com/kenzok8/small-package/tree/main/mosdns package/mosdns
  svn co https://github.com/kenzok8/small-package/tree/main/luci-app-store package/luci-app-store
- svn co https://github.com/HiGarfield/lede-17.01.4-test/tree/master/package/extra/luci-app-usb-printer package/luci-app-usb-printer
+ svn co https://github.com/Dboykey/luci-app-usb-printer package/luci-app-usb-printer
 
 
 
