@@ -27,7 +27,7 @@ echo "DISTRIB_SOURCECODE='official'" >>package/base-files/files/etc/openwrt_rele
  svn co https://github.com/kenzok8/small-package/tree/main/luci-app-openclash package/luci-app-openclash
  svn co https://github.com/kenzok8/small-package/tree/main/adguardhome package/adguardhome
  svn co https://github.com/kenzok8/small-package/tree/main/mosdns package/mosdns
- svn co https://github.com/kenzok8/small-package/tree/main/luci-app-store package/luci-app-store
+ 
 
 
 
